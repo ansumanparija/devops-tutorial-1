@@ -25,7 +25,7 @@ function getAllApplications() {
 // sample data
 var APPS = [{
   id: 1234,
-  name: 'Open Toolchain',
+  name: 'close Toolchain',
   lastUpdated: '2015-07-10T14:48:00',
   status: 'online',
 }, {
