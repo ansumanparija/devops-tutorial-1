@@ -34,7 +34,7 @@ describe('controllers', function() {
           .expect(200)
           .end(function(err, res) {
             should.not.exist(err);
-            res.body.name.should.eql('Open Toolchain');
+            res.body.name.should.eql('Open Toolchain12');
             done();
           });
       });
